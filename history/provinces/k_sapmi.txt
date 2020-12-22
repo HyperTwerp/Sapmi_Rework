@@ -1,0 +1,449 @@
+#########New Sámi Shit##########
+
+432 = { #Vualtjere
+	holding = siida_holding
+}
+
+431 = { #Gaaltoe
+	holding = siida_holding
+}
+
+429 = { #Lusspie
+	holding = siida_holding
+}
+
+428 = { #Uddjaur
+	holding = siida_holding
+}
+
+415 = { #Jovvkuj
+	holding = siida_holding
+}
+
+377 = { #Semisjaur
+	holding = siida_holding
+}
+
+427 = { #Arjepluovve
+	holding = siida_holding
+}
+
+375 = { #Arviesjavrrie
+	holding = siida_holding
+}
+
+422 = { #Biton
+	holding = siida_holding
+}
+
+374 = { #Luokta
+	holding = siida_holding
+}
+
+423 = { #Galaseatnu
+	holding = siida_holding
+}
+
+378 = { #sjokksjokk
+	holding = siida_holding
+}
+
+379 = { #Sirkas
+	holding = siida_holding
+}
+
+376 = { #Tuorpon
+	holding = siida_holding
+}
+
+383 = { #Tingevara
+	holding = siida_holding
+}
+
+424 = { #duortnus
+	holding = siida_holding
+}
+
+385 = { #KITTAL
+	holding = siida_holding
+}
+
+384 = { #SUONDAVARA
+	holding = siida_holding
+}
+
+394 = { #Guovdageaidnu
+	holding = siida_holding
+}
+
+425 = { #Giepma
+	holding = siida_holding
+}
+
+388 = { #KEMIJAVRI
+	holding = siida_holding
+}
+
+387 = { #SUADIGIL
+	holding = siida_holding
+}
+
+392 = { #PELDOJAVRI
+	holding = siida_holding
+}
+
+395 = { #Iesjavri
+	holding = siida_holding
+}
+
+397 = { #Aviovara
+	holding = siida_holding
+}
+
+396 = { #Karasjohka
+	holding = siida_holding
+}
+
+398 = { #Laggujakka
+	holding = siida_holding
+}
+
+399 = { #Ohcejohka
+	holding = siida_holding
+}
+
+388 = { #
+	holding = siida_holding
+}
+
+418 = { #KOULAJARVI
+	holding = siida_holding
+}
+
+401 = { #Suonnjel
+	holding = siida_holding
+}
+
+403 = { #Nuottjaurr
+	holding = siida_holding
+}
+
+402 = { #Muetkk
+	holding = siida_holding
+}
+
+403 = { #
+	holding = siida_holding
+}
+
+426 = { #IIJOKI
+	holding = siida_holding
+}
+
+420 = { #MAANSELKA
+	holding = siida_holding
+}
+
+403 = { #
+	holding = siida_holding
+}
+
+408 = { #Saarvesjaurr
+	holding = siida_holding
+}
+
+407 = { #Cukksual
+	holding = siida_holding
+}
+
+406 = { #Maselk
+	holding = siida_holding
+}
+
+410 = { #Lujavvr
+	holding = siida_holding
+}
+
+405 = { #Koardegk
+	holding = siida_holding
+}
+
+413 = { #Guoddemjavvr
+	holding = siida_holding
+}
+
+414 = { #Kintus
+	holding = siida_holding
+}
+
+412 = { #Arsjogk
+	holding = siida_holding
+}
+
+411 = { #Lejjavrr
+	holding = siida_holding
+}
+
+417 = { #Sosnevke
+	holding = siida_holding
+}
+
+416 = { #Penne
+	holding = siida_holding
+}
+
+
+
+
+
+
+
+
+
+
+
+#####################################
+
+# 373 - JAHKAMAKKE
+373 = {	# 373 - JAHKAMAKKE
+	
+	holding = siida_holding
+	culture = sami
+	religion = noaide_pagan
+	terrain = mountain
+}
+
+# 380 - SIGGEVARA
+380 = {	# 380 - SIGGEVARA
+	
+	holding = siida_holding
+	culture = sami
+	religion = noaide_pagan
+	
+	holding = siida_holding
+
+}
+
+# 381 - LAIS
+381 = {	# 381 - LAIS
+	
+	holding = siida_holding
+	culture = sami
+	religion = noaide_pagan
+	terrain = mountain
+	
+	holding = siida_holding
+}
+
+# 382 - UBMEJE
+382 = {	# 382 - UBMEJE
+	
+	holding = siida_holding
+	culture = sami
+	religion = noaide_pagan
+	terrain = forest
+
+}
+
+# 384 - SUONDAVARA
+384 = {	# 384 - SUONDAVARA
+	
+	holding = siida_holding
+	culture = sami
+	religion = noaide_pagan
+
+}
+
+# 385 - KITTAL
+385 = {	# 385 - KITTAL
+	
+	holding = siida_holding
+	culture = sami
+	religion = noaide_pagan
+
+}
+
+# 387 - SUADIGIL
+387 = {	# 387 - SUADIGIL
+	
+	holding = siida_holding
+	culture = sami
+	religion = noaide_pagan
+
+}
+
+388 = {	# 388 - KEMIJAVRI
+	
+	holding = siida_holding
+	culture = sami
+	religion = noaide_pagan
+
+}
+
+# 390 - SOMBIO
+390 = {	# 390 - SOMBIO
+	
+	holding = siida_holding
+	culture = sami
+	religion = noaide_pagan
+	
+	holding = siida_holding
+
+}
+
+# 391 - AANAARJAVRI
+391 = {	# 391 - AANAARJAVRI
+	
+	holding = siida_holding
+	culture = sami
+	religion = noaide_pagan
+	
+	
+	holding = siida_holding
+
+}
+
+# 392 - PELDOJAVRI
+392 = {	# 392 - PELDOJAVRI
+	
+	holding = siida_holding
+	culture = sami
+	religion = noaide_pagan
+
+}
+
+# 393 - ROUNALA
+393 = {	# 393 - ROUNALA
+	
+	holding = siida_holding
+	culture = sami
+	religion = noaide_pagan
+	terrain = mountain
+
+}
+
+# 396 - KARASJOHKA
+396 = {	# 396 - KARASJOHKA
+	
+	holding = siida_holding
+	culture = sami
+	religion = noaide_pagan
+	terrain = mountain
+}
+
+# 400 - PEACCAM
+400 = {	# 400 - PEACCAM
+	
+	holding = siida_holding
+	culture = sami
+	religion = noaide_pagan
+	
+	# History
+
+}
+
+# 418 - KOULAJARVI
+418 = {	# 418 - KOULAJARVI
+	
+	holding = siida_holding
+	culture = sami
+	religion = noaide_pagan
+
+}
+
+# 419 - KITKA
+419 = {	# 419 - KITKA
+	
+	holding = siida_holding
+	culture = sami
+	religion = noaide_pagan
+	
+	holding = siida_holding
+
+}
+
+# 420 - MAANSELKA
+420 = {	# 420 - MAANSELKA
+	
+	holding = siida_holding
+	culture = sami
+	religion = noaide_pagan
+
+}
+
+# 421 - JULEVU
+421 = {	# 421 - JULEVADNO
+	
+	holding = siida_holding
+	culture = sami
+	religion = noaide_pagan
+	terrain = forest
+}
+
+# 422 - BITON
+422 = {	# 422 - BITON
+	
+	holding = siida_holding
+	culture = sami
+	religion = noaide_pagan
+	terrain = forest
+	
+
+}
+
+# 424 - DUORTNUS
+424 = {	# 424 - DUORTNUS
+	
+	holding = siida_holding
+	culture = sami
+	religion = noaide_pagan
+
+}
+
+# 425 - GIEPMA
+425 = {	# 425 - GIEPMA
+	
+	holding = siida_holding
+	holding = siida_holding
+	culture = sami
+	religion = noaide_pagan
+
+}
+
+# 426 - IIJOKI
+426 = {	# 426 - IIJOKI
+	
+	holding = siida_holding
+	culture = sami
+	religion = noaide_pagan
+
+}
+
+# 430 - SJELTIE
+430 = {	# 430 - SJELTIE
+	
+	holding = siida_holding
+	culture = sami
+	religion = noaide_pagan
+	terrain = forest
+
+}
+
+###c_koutajoki
+454 = {	# KOUTAJOKI
+	holding = siida_holding
+	culture = sami
+	religion = noaide_pagan
+	
+	holding = siida_holding
+	
+	# History
+
+}
+455 = {	# TIIKSJARVI
+	holding = siida_holding
+	culture = sami
+	religion = noaide_pagan
+	
+	holding = siida_holding
+}

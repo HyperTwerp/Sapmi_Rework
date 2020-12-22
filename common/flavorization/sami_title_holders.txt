@@ -1,0 +1,142 @@
+﻿# Accepted categories are: governments, cultures, culture_groups, faiths, religions
+# A Flavorization will apply if ALL specified categories have ANY of their entries
+# represented in the character/title
+# So for example:
+# governments = { feudal_government }
+# culture_groups = { mongolic_group central_germanic_group }
+# religions = { christianity_religion }
+# cultures = { norse }
+# faiths = { catholicism }
+# For this to apply a character MUST BE feudal, AND must also be EITHER altaic OR germanic
+# priority is used to determine priority, if they are the same then the LAST will be selected,
+# and honorifics will be prefered over landed titles. Default priority is 1
+# If a flavorization does not have a tier it can apply to all tiers of characters, too many non-tiered
+# flavorizations is bad for performance though, YOU HAVE BEEN WARNED!
+# 'top_liege = no' means that its the holder of the title causing the honorific that is tested for
+# the various categories, so for a prince it is the king that is tested, for a queen mother it is her son
+# if this is not specified ( or 'top_liege = yes' the default ) then it is the top liege of that character
+# that is tested, this means that most title flavor comes from the top liege of the title not the holder
+
+#sultan = { #Example
+#	gender = male
+#	special = holder
+#	tier = kingdom
+	#	governments = { feudal_government clan_government }
+#	religions = { islam_religion }
+#}
+
+#######Sámi Shit########
+
+count_feudal_male_sami = {
+    type = character
+    gender = male
+    special = holder
+    tier = county
+    priority = 102
+    governments = { tribal_government siida_government }
+    cultures = { sami }	
+}
+
+count_feudal_female_sami = {
+    type = character
+    gender = female
+    special = holder
+    tier = county
+    priority = 102
+    governments = { tribal_government siida_government }
+    cultures = { sami }
+}
+county_feudal_sami = {
+    type = title
+    tier = county
+    priority = 102
+    governments = { tribal_government siida_government }
+    cultures = { sami }
+}
+duke_feudal_male_sami = {
+    type = character
+    tier = duchy
+	gender = male
+	special = holder
+    priority = 102
+    governments = { tribal_government siida_government }
+    cultures = { sami }
+}
+duke_feudal_female_sami = {
+    type = character
+    tier = duchy
+	gender = female
+	special = holder
+    priority = 102
+    governments = { tribal_government siida_government }
+    cultures = { sami }
+}
+duchy_feudal_sami = {
+    type = title
+    tier = duchy
+    priority = 102
+    governments = { tribal_government siida_government }
+    cultures = { sami }
+}
+king_feudal_male_sami = {
+    type = character
+    tier = kingdom
+	gender = male
+	special = holder
+    priority = 102
+    governments = { tribal_government siida_government }
+    cultures = { sami }
+}
+king_feudal_female_sami = {
+    type = character
+    tier = kingdom
+	gender = female
+	special = holder
+    priority = 102
+    governments = { tribal_government siida_government }
+    cultures = { sami }
+}
+kingdom_feudal_sami = {
+    type = title
+    tier = kingdom
+    priority = 102
+    governments = { tribal_government siida_government }
+    cultures = { sami }
+}
+emperor_feudal_male_sami = {
+    type = character
+    gender = male
+    special = holder
+    tier = empire
+    priority = 102
+    governments = { tribal_government siida_government }
+    cultures = { sami }
+}
+emperor_feudal_female_sami = {
+    type = character
+    gender = female
+    special = holder
+    tier = empire
+    priority = 102
+    governments = { tribal_government siida_government }
+    cultures = { sami }
+}
+empire_feudal_sami = {
+    type = title
+    tier = empire
+    priority = 102
+    governments = { tribal_government siida_government }
+    cultures = { sami }
+}
+
+
+
+
+
+
+
+
+
+
+
+
